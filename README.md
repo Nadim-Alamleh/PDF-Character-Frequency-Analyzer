@@ -24,6 +24,7 @@ This Python program reads a PDF file, extracts its text, and calculates the freq
 1. Clone this repository:
    ```bash
    git clone https://github.com/Nadim-Alamleh/PDF-Character-Frequency-Analyzer.git
+   ```
 
 2.Navigate to the project directory:
 cd PDF-Character-Frequency-Analyzer
@@ -81,4 +82,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 Author
 Nadim Alamleh
 
-For any questions or feedback, feel free to reach out! ```
+For any questions or feedback, feel free to reach out! 
