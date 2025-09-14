@@ -24,7 +24,6 @@ This Python program reads a PDF file, extracts its text, and calculates the freq
 1. Clone this repository:
    ```bash
    git clone https://github.com/Nadim-Alamleh/PDF-Character-Frequency-Analyzer.git
-   ```
 
 2.Navigate to the project directory:
 cd PDF-Character-Frequency-Analyzer
@@ -33,6 +32,7 @@ cd PDF-Character-Frequency-Analyzer
 pip install PyPDF2
 
 Usage
+
 1.Place the PDF file you want to analyze in the same directory as the script.
 2.Update the PDF_File variable in the script with the name of your PDF file:
 PDF_File = 'your_pdf_file.pdf'
